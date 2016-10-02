@@ -1,7 +1,7 @@
 {
-  "name": "gocardless-crawler",
-  "version": "1.0.0",
-  "description": "Simple Web Crawler written in Typescript",
+  "name": "tac",
+  "version": "0.0.1",
+  "description": "Simple Node Assets Crawler written in Typescript",
   "main": "index.js",
   "scripts": {
     "test": "jasmine-ts './tests/**/*.spec.ts'",
